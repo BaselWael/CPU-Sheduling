@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cpu_scheduling_calculator", "Cpu_scheduling_calculator\Cpu_scheduling_calculator.csproj", "{165BD246-1944-44FC-B302-7A5A53051C8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{165BD246-1944-44FC-B302-7A5A53051C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{165BD246-1944-44FC-B302-7A5A53051C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{165BD246-1944-44FC-B302-7A5A53051C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{165BD246-1944-44FC-B302-7A5A53051C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72A44F35-10FC-4C1C-9002-C78D955571A1}
+	EndGlobalSection
+EndGlobal
